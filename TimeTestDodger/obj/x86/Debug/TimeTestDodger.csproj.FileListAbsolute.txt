@@ -1,0 +1,11 @@
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\bin\Debug\TimeTestDodger.exe
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\bin\Debug\TimeTestDodger.pdb
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\bin\Debug\TimeRelativity.dll
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\bin\Debug\TimeRelativity.pdb
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\obj\x86\Debug\TimeTestDodger.Form1.resources
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\obj\x86\Debug\TimeTestDodger.Properties.Resources.resources
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\obj\x86\Debug\TimeTestDodger.exe
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestDodger\obj\x86\Debug\TimeTestDodger.pdb

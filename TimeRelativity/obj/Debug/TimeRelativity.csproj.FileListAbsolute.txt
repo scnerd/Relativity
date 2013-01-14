@@ -1,0 +1,5 @@
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeRelativity\bin\Debug\TimeRelativity.dll
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeRelativity\bin\Debug\TimeRelativity.pdb
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeRelativity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeRelativity\obj\Debug\TimeRelativity.dll
+C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeRelativity\obj\Debug\TimeRelativity.pdb
