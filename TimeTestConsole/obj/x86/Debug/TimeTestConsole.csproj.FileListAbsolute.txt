@@ -5,3 +5,5 @@ C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativi
 C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestConsole\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestConsole\obj\x86\Debug\TimeTestConsole.exe
 C:\Users\SCNerd\Desktop\David Backup 8-26-10\My Dropbox\VS Projects\TimeRelativity\TimeTestConsole\obj\x86\Debug\TimeTestConsole.pdb
+C:\Users\David\Dropbox\VS Projects\TimeRelativity\TimeTestConsole\obj\x86\Debug\TimeTestConsole.exe
+C:\Users\David\Dropbox\VS Projects\TimeRelativity\TimeTestConsole\obj\x86\Debug\TimeTestConsole.pdb

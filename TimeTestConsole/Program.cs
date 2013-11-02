@@ -51,36 +51,36 @@ namespace TimeTestConsole
                 };
 
             while (stopwatch.Elapsed.Seconds < 10) Process();
-            Console.In.Close();
+            //Console.In.Close();
 
-            while (stopwatch.Elapsed.Seconds < 11) Process();
-            Manager.JumpToTime(9000);
+            //while (stopwatch.Elapsed.Seconds < 11) Process();
+            //Manager.JumpToTime(9000);
 
-            while (stopwatch.Elapsed.Seconds < 12) Process();
-            Manager.JumpToTime(8000);
+            //while (stopwatch.Elapsed.Seconds < 12) Process();
+            //Manager.JumpToTime(8000);
 
-            while (stopwatch.Elapsed.Seconds < 13) Process();
-            Manager.JumpToTime(7000);
+            //while (stopwatch.Elapsed.Seconds < 13) Process();
+            //Manager.JumpToTime(7000);
 
-            while (stopwatch.Elapsed.Seconds < 15) Process();
-            Manager.JumpToTime(6000);
+            //while (stopwatch.Elapsed.Seconds < 15) Process();
+            //Manager.JumpToTime(6000);
 
-            while (stopwatch.Elapsed.Seconds < 17) Process();
-            Manager.JumpToTime(5000);
+            //while (stopwatch.Elapsed.Seconds < 17) Process();
+            //Manager.JumpToTime(5000);
 
-            while (stopwatch.Elapsed.Seconds < 19) Process();
-            Manager.JumpToTime(4000);
+            //while (stopwatch.Elapsed.Seconds < 19) Process();
+            //Manager.JumpToTime(4000);
 
-            while (stopwatch.Elapsed.Seconds < 22) Process();
-            Manager.JumpToTime(3000);
+            //while (stopwatch.Elapsed.Seconds < 22) Process();
+            //Manager.JumpToTime(3000);
 
-            while (stopwatch.Elapsed.Seconds < 25) Process();
-            Manager.JumpToTime(2000);
+            //while (stopwatch.Elapsed.Seconds < 25) Process();
+            //Manager.JumpToTime(2000);
 
-            while (stopwatch.Elapsed.Seconds < 30) Process();
-            Manager.JumpToTime(1000);
+            //while (stopwatch.Elapsed.Seconds < 30) Process();
+            //Manager.JumpToTime(1000);
 
-            while (stopwatch.Elapsed.Seconds < 35) Process();
+            //while (stopwatch.Elapsed.Seconds < 35) Process();
             Manager.JumpToTime(0000);
 
             while (true) Process();
